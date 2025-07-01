@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PSP02_JuegoPelota/1.0.0": {
+        "runtime": {
+          "PSP02_JuegoPelota.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PSP02_JuegoPelota/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
