@@ -31,6 +31,8 @@ namespace tareas
             Thread.Sleep(1000);
             Console.WriteLine("Hola esta es la tarea del hilo 1");
             Thread.Sleep(1000);
+            Console.WriteLine("Hola esta es la tarea del hilo 1");
+            Thread.Sleep(1000);
             //Tareas();
 
         }
