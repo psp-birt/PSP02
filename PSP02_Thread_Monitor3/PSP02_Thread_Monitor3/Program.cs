@@ -95,7 +95,7 @@ namespace monitores
 
                 // Start threads 
                 t_producer.Start();
-                Thread.Sleep(500);
+                Thread.Sleep(100);
                 t_consumer.Start();
                 //t_consumer2.Start();
 
