@@ -17,6 +17,7 @@ namespace tareas
 
             //Ejercicio3: La tarea3 se ejecuta sólo cuando la tarea1 y la tarea2 ya han finalizado.
             //Hay que guardar las tareas en alguna variable. WaitAll(Hay que pasarle las tareas a las que va a esperar) . Revisar el método.
+
             //TareasWaitAll();
 
             //Ejercicio4: La tarea3 se ejecuta sólo cuando la tarea1 O la tarea2 ya han finalizado.
@@ -25,12 +26,13 @@ namespace tareas
 
             //Ejercicio5: La tarea2 y tarea3 no se ejecutan hasta que la tarea1 no finalice. Tarea2 y tarea3 pueden ejecutarse de forma paralela.
             //Analizar cómo se construye el método TareasWait().
-            //TareasWait();
+            TareasWait();
 
 
             //Ejercicio6: Se ejecutan tarea1, tarea2 y tarea3 de forma secuencial
             //Analizar cómo se construye el método TareasWait2().
             //TareasWait2();
+           
             Console.ReadLine();
 
         }
